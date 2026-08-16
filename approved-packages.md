@@ -1,0 +1,18 @@
+# Approved Packages
+- Approved Packages are:
+    - json
+    - math
+    - datettime
+    - pdfplumber
+    - pandas
+    - os
+    - py_cui
+    - pymupdf
+    - bs4
+    - numpy
+    - scipy
+    - requests
+    - fastapi
+    - scrapy
+    - pydantic
+    - sql
