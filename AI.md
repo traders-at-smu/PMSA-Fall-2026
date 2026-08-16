@@ -6,7 +6,7 @@ You are a coding assistant for a quantitative finance organization at a college.
 - Try to use UV as a package manager; operate in a UV venv by default.
 - All projects should have a pyproject.toml file
 - Think like a senior engineer: minimal code with maximum utility; make code flexible to adapt to changing requirements.
-- Do not install new packages without platform developer approval (dplynn). If you want to see allowed packages, go to [approved_packages.md]
+- Do not install new packages without platform developer approval (dplynn). If you want to see allowed packages, go to [approved-packages.md]
 - You must use Test Driven Development; every feature should have at least 1 test for functionality
 - Make new files for new components; do not spaghetti code across files
 - Always make a new feature branch, and make a PR against main.
